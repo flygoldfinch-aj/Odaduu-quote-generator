@@ -1,0 +1,9 @@
+streamlit
+google-genai
+requests
+reportlab
+pypdf
+pandas
+openpyxl
+firebase-admin
+Action
